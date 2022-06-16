@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Filip! I'm a high school student from a small town near Krakow (Poland)
 - 👀 I’m interested in cycling and football (soccer)
+<!---
 - 🌱 I’m currently learning Java
+--->
 - 📫 How to reach me - ploszajf@gmail.com
 
 
